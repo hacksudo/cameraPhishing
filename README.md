@@ -36,9 +36,8 @@ git clone https://github.com/techchipnet/CamPhish
 cd CamPhish
 bash camphish.sh
 ```
-### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### hacksudo 
+#### For More Video subcribe <a href="http://youtube.com/hacksudo">hacksudo YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
 # Grab cam shots from target's phone front camera or PC webcam just sending a link. 
